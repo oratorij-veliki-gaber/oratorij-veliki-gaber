@@ -2,6 +2,9 @@
 	min-width: 70px;
 	max-width: 70px;
 }
+.btn-cnt{
+	text-align: center;
+}
 .mt-25{
 	margin-top: 25px;
 }
