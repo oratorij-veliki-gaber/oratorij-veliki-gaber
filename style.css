@@ -14,3 +14,9 @@
 .lh-30{
 	line-height: 30px;
 }
+maxW400{
+	max-width: 400px;
+}
+maxH400{
+	max-height: 400px;
+}
