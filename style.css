@@ -1,6 +1,6 @@
 .btn-m{
-	min-width: 90px;
-	max-width: 90px;
+	min-width: 90px !important;
+	max-width: 90px !important;
 }
 .btn-cnt{
 	text-align: center;
