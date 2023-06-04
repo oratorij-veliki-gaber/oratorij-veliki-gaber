@@ -1,3 +1,3 @@
-# oratorij-veliki-gaber.github.io
+# oratorij-veliki-gaber
 
 Spletna stran
